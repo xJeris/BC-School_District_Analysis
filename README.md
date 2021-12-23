@@ -17,10 +17,12 @@ This data saw the largest impact based on the removal of 9th grade scores for Th
 ### Bottom 5 performing schools, based on the overall passing rate<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/bottom5.png" width="80%" />
 
-### The average math score received by students in each grade level at each school<br/>
+### The average math score received by students in each grade level at each school
+Thomas High School's average math score was altered by < 0.5% with the removal of 9th grade scores (83.59).<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/math_by_grade.png" height="499" />
 
-### The average reading score received by students in each grade level at each school<br/>
+### The average reading score received by students in each grade level at each school
+Thomas High School's average reading score was altered by < 0.5% with the removal of 9th grade scores (83.72).<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/reading_by_grade.png" height="499" />
 
 ### School performance based on the budget per student<br/>
@@ -29,7 +31,8 @@ This data saw the largest impact based on the removal of 9th grade scores for Th
 ### School performance based on the school size<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_size.png" />
 
-### School performance based on the type of school<br/>
+### School performance based on the type of school
+Had Thomas High School 9th grade scores been included, the school would have been the only charter school to have less than 89% overall passing (66%).<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_type.png" />
 
 
