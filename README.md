@@ -8,7 +8,7 @@ As part of this analysis the standardized test scores for 9th graders at Thomas 
 
 ### Key Metric Overview
 Here is a high-level snapshot of the school districts key metrics. Below you will find a breakdown for each of them individually.
-<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/overview.png" width="80%" />
+<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/overview1.png" width="80%" />
 
 ### Top 5 performing schools, based on the overall passing rate
 This data saw the largest impact based on the removal of 9th grade scores for Thomas High School. Their overall passing rate increased by about 25% due to having fewer students included in their totals. Which moved them from the lower half of the district, into the top 5.<br/>
