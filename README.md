@@ -32,10 +32,11 @@ Thomas High School's overall average reading score was reduced by about 0.05 wit
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_spending.png" />
 
 ### School performance based on the school size<br/>
-This is the clearest indicator of standardized test performance. In most cases the largest schools had significantly lower passing percentages in both math and reading.<br/>
+In most cases the largest schools had significantly lower passing percentages in both math and reading.<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_size.png" />
 
 ### School performance based on the type of school<br/>
+In general District schools have a much larger number of students than charter schools. Only 1 charter school had more than 2000 students.
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_type.png" />
 
 
