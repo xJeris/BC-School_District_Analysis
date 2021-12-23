@@ -41,4 +41,4 @@ In general District schools have a much larger number of students than charter s
 
 
 ## Summary
-Overall the main driver of student success on standardized tests is a smaller school size, which implies a smaller class size, and more attention for each student.
+Overall the main driver of student success on standardized tests is a smaller school size, which implies a smaller class size, and more attention for each student. An increase in per student spending at larger schools did not have a visible impact on scores for those schools.
