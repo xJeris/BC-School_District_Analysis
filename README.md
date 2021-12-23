@@ -36,7 +36,7 @@ In most cases the largest schools had significantly lower passing percentages in
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_size.png" />
 
 ### School performance based on the type of school<br/>
-In general District schools have a much larger number of students than charter schools. Only 1 charter school had more than 2000 students.
+In general District schools have a much larger number of students than charter schools. Only 1 charter school has more than 2000 students.
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_type.png" />
 
 
