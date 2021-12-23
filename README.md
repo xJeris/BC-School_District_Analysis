@@ -8,10 +8,10 @@ A high-level snapshot of the district's key metrics, presented in a table format
 An overview of the key metrics for each school, presented in a table format
 
 Top 5 performing schools, based on the overall passing rate
-<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/top5.png" width="75%" />
+<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/top5.png" width="80%" />
 
 Bottom 5 performing schools, based on the overall passing rate
-<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/bottom5.png" width="75%" />
+<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/bottom5.png" width="80%" />
 
 The average math score received by students in each grade level at each school
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/math_by_grade.png" />
