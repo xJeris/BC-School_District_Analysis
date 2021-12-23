@@ -7,7 +7,7 @@ As part of this analysis the standardized test scores for 9th graders at Thomas 
 ## Results
 
 ### Key Metric Overview
-Here is a high-level snapshot of the school districts key metrics. Below you will find a breakdown for each of them individually.
+Here is a high-level snapshot of the school districts key metrics. Below you will find a breakdown for each of them individually.<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/overview.png" width="80%" />
 
 ### Top 5 performing schools, based on the overall passing rate
