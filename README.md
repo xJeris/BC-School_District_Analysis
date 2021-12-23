@@ -10,9 +10,9 @@ As part of this analysis the standardized test scores for 9th graders at Thomas 
 Here is a high-level snapshot of the school districts key metrics. Below you will find a breakdown for each of them individually.<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/overview.png" width="80%" /><br/>
 Thomas High School's overall passing percentages were decreased by the removal of the 9th graders, as follows:
-* Overall passing math, < 0.09%
-* Overall passing reading, < 0.29%
-* Overall passing combined, < 0.31%<br/>
+* Overall passing math, -0.09%
+* Overall passing reading, -0.29%
+* Overall passing combined, -0.31%<br/>
 
 ### Top 5 performing schools, based on the overall passing rate<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/top5.png" width="80%" />
