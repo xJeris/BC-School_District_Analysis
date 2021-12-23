@@ -18,11 +18,11 @@ Here is a high-level snapshot of the school districts key metrics. Below you wil
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/bottom5.png" width="80%" />
 
 ### The average math score received by students in each grade level at each school
-Thomas High School's average math score was reduced by about 0.06 with the removal of 9th grade scores (83.59).<br/>
+Thomas High School's overall average math score was reduced by about 0.06 with the removal of 9th grade scores (83.59).<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/math_by_grade.png" height="499" />
 
 ### The average reading score received by students in each grade level at each school
-Thomas High School's average reading score was reduced by about 0.05 with the removal of 9th grade scores (83.72).<br/>
+Thomas High School's overall average reading score was reduced by about 0.05 with the removal of 9th grade scores (83.72).<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/reading_by_grade.png" height="499" />
 
 ### School performance based on the budget per student<br/>
