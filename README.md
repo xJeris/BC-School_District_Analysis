@@ -13,7 +13,7 @@ Top 5 performing schools, based on the overall passing rate
 Bottom 5 performing schools, based on the overall passing rate
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/bottom5.png" width="80%" />
 
-The average math score received by students in each grade level at each school
+The average math score received by students in each grade level at each school<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/math_by_grade.png" />
 
 The average reading score received by students in each grade level at each school
