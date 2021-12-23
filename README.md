@@ -1,11 +1,13 @@
 # School District Analysis Overview
 
+This analysis compares each of the schools in the city school district based on their standardize test performance and student funding. This will allow the school district to gain insights and make strategic and funding decisions going forward.
+
+As part of this analysis the standardized test scores for 9th graders at Thomas High School were removed due to possible academic fraud.
 
 ## Results
 
-A high-level snapshot of the district's key metrics, presented in a table format
-
-An overview of the key metrics for each school, presented in a table format
+Here is a high-level snapshot of the school districts key metrics. Below you will find a breakdown for each of them individually.
+<img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/overview.png" width="80%" />
 
 Top 5 performing schools, based on the overall passing rate<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/top5.png" width="80%" />
