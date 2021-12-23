@@ -11,7 +11,7 @@ Here is a high-level snapshot of the school districts key metrics. Below you wil
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/overview.png" width="80%" />
 
 ### Top 5 performing schools, based on the overall passing rate
-This data saw the largest impact based on the removal of 9th grade scores for Thomas High School. Their overall passing rate increased by about 25% due to having fewer students included in their totals. Which moved them from the lower half of the district, into the top 5.<br/>
+This data saw the largest impact based on the removal of 9th grade scores for Thomas High School. Their overall passing rate decreased by about 25% due to having fewer passing scores included in their totals. Similarly, the math and reading passing percentages also decreased.<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/top5.png" width="80%" />
 
 ### Bottom 5 performing schools, based on the overall passing rate<br/>
