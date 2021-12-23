@@ -12,7 +12,7 @@ Here is a high-level snapshot of the school districts key metrics. Below you wil
 Thomas High School's overall passing percentages were decreased by the removal of the 9th graders, as follows:
 * Overall passing math, < 0.09%
 * Overall passing reading, < 0.29%
-* OVerall passing combined, < 0.31%<br/>
+* Overall passing combined, < 0.31%<br/>
 
 ### Top 5 performing schools, based on the overall passing rate
 <br/>
