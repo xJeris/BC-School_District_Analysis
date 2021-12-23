@@ -14,8 +14,7 @@ Thomas High School's overall passing percentages were decreased by the removal o
 * Overall passing reading, < 0.29%
 * Overall passing combined, < 0.31%<br/>
 
-### Top 5 performing schools, based on the overall passing rate
-<br/>
+### Top 5 performing schools, based on the overall passing rate<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/top5.png" width="80%" />
 
 ### Bottom 5 performing schools, based on the overall passing rate<br/>
@@ -35,8 +34,7 @@ Thomas High School's overall average reading score was reduced by about 0.05 wit
 ### School performance based on the school size<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_size.png" />
 
-### School performance based on the type of school
-Had Thomas High School 9th grade scores been included, the school would have been the only charter school to have less than 89% overall passing (66%).<br/>
+### School performance based on the type of school<br/>
 <img src="https://github.com/xJeris/School_District_Analysis/blob/main/images/school_type.png" />
 
 
